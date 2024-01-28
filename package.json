@@ -1,0 +1,37 @@
+{
+    "name": "review-frontend",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@emotion/react": "latest",
+        "@emotion/styled": "latest",
+        "@project-serum/borsh": "latest",
+        "@solana/wallet-adapter-react": "^0.15.35",
+        "@solana/wallet-adapter-react-ui": "latest",
+        "@solana/wallet-adapter-wallets": "^0.19.26",
+        "@solana/web3.js": "latest",
+        "framer-motion": "latest",
+        "next": "latest",
+        "react": "latest",
+        "react-cool-onclickoutside": "^1.7.0",
+        "react-dom": "latest",
+        "use-places-autocomplete": "^4.0.1"
+    },
+    "devDependencies": {
+        "@types/node": "latest",
+        "@types/react": "latest",
+        "@types/react-dom": "latest",
+        "autoprefixer": "latest",
+        "eslint": "latest",
+        "eslint-config-next": "latest",
+        "postcss": "latest",
+        "tailwindcss": "latest",
+        "typescript": "latest"
+    }
+}
