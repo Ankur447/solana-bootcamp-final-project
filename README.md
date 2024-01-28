@@ -1,6 +1,6 @@
 # Web3 Restaurant Review DApp - README 
 
-#LIVE LINK: https://solana-bootcamp-final-project-tau.vercel.app/
+  [LIVE LINK](https://solana-bootcamp-final-project-tau.vercel.app/)
 
 Welcome to the **Restaurant Review Dapp** project repository! This decentralized application (DApp) leverages Solana technology to add a review and store it on network for everyone to see.
 
