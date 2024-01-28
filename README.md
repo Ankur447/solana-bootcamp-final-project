@@ -1,4 +1,4 @@
-# Web3 Auction DApp - README 
+# Web3 Restaurant Review DApp - README 
 
 #LIVE LINK: https://solana-bootcamp-final-project-tau.vercel.app/
 
